@@ -1,4 +1,4 @@
-/* styles for devices with a minimum width of less than 600px; */
+/* styles for devices with a minimum width of less than 900px; */
 
 *{
   margin: 0;
@@ -217,7 +217,7 @@ footer a{
 
 /* styles for devices with a minimum width of 600px; */
 
-@media (min-width:600px) {
+@media (min-width:900px) {
     .main{
       width: auto;
       background-color: #f2f2f2;
