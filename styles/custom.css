@@ -205,12 +205,14 @@ footer{
 footer a{
   color:#ffffff;
 }
-.innerd{
-    width: 30%;
-    margin: auto;
-    border-style: none;
-    text-align: justify;
-  }
+
+
+#innerd {
+  width: 90%;
+  text-align: justify;
+  margin: auto;
+  border-style: none;
+}
 
 
 /* styles for devices with a minimum width of 600px; */
@@ -337,10 +339,10 @@ footer a{
   footer a{
     color:#ffffff;
   }
-  .innerd {
-    width: 80%;
-    margin: auto;
-    border-style: none;
-    text-align: justify;
-  }
+  #innerd {
+  width: 30%;
+  text-align: justify;
+  margin: auto;
+  border-style: none;
+}
 }
